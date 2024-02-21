@@ -1,0 +1,481 @@
+.CarS {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.video-background {
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+}
+
+
+.Carmodel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15vh;
+}
+
+.Buttongrp {
+
+    margin-bottom: 7rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+
+}
+
+.navbar-nav {
+
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.names a {
+    color: white;
+    align-items: center;
+
+
+}
+
+.btn1 {
+    background-color: white;
+    height: 2rem;
+    width: 190PX;
+    border: 1px solid #F4F4F4CC;
+    border-radius: 2px;
+    margin: 2vh;
+
+
+}
+
+.btn3 {
+    background-color: #222222A6;
+    color: white;
+    height: 2rem;
+    border: 1px solid #222222A6;
+    border-radius: 2px;
+    width: 190PX;
+}
+
+.head1 img {
+    height: 20px;
+    width: 50px;
+}
+
+nav {
+    display: flex;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    justify-content: space-between;
+    margin: 1rem;
+    z-index: 1;
+    text-decoration: none;
+}
+
+.rightmenu {
+    display: flex;
+
+}
+
+.mobailemenu {
+    display: flex;
+    position: fixed;
+    flex-direction: column;
+    text-decoration: none;
+    top: 50px;
+    right: 1px;
+    bottom: 0;
+    background-color: white;
+    padding: 0.5rem;
+    padding-top: 12vh;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+
+.Carmodel1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.Carmodel1 h2,
+.Carmodel1 p {
+
+    color: white;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+.hed12 {
+    margin-top: vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Buttongrp1 {
+
+    margin-top: 12vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+
+}
+
+.nav {
+
+    color: #F4F4F4CC;
+}
+
+.cartesla img {
+    height: 150px;
+
+
+}
+
+
+.loginp {
+
+    margin-bottom: 7rem;
+    margin: 112px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    justify-content: space-between;
+  
+}
+
+.info h4 {
+
+
+    margin-bottom: 4vh;
+    margin-left: 5vh;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
+
+.vehical h2,
+.vehical p {
+    align-items: center;
+    justify-content: center;
+    margin-left: 7vh;
+}
+
+.link {
+    margin-right: 5vh;
+    margin-top: 5vh;
+}
+
+.hedline h1 {
+    margin-top: 10vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.lern {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.lern h5 {
+    margin-left: 5px;
+    border-bottom: 1px solid black;
+    display: inline-block;
+    padding-bottom: 3px;
+}
+
+.btn12 {
+
+    background-color: white;
+    height: 2rem;
+    width: 190PX;
+    border: 1px solid #F4F4F4CC;
+    border-radius: 2px;
+    margin: 2vh;
+
+}
+
+.btn33 {
+    background-color: #222222A6;
+    color: white;
+    height: 2rem;
+    border: 1px solid #222222A6;
+    border-radius: 2px;
+    width: 190PX;
+    margin: 2vh;
+
+}
+
+.Carmodel12 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15vh;
+}
+.head{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top:10vh ;
+}
+.about {
+
+   
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-top: 5vh;
+        flex-wrap: wrap;
+        
+
+}
+.about h5{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    color: #5c5E62;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+.A1 {
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.model{
+
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    margin-top:7vh ;
+}
+
+.time{
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top:10vh ;
+}
+.select{
+    margin-right: 3vh;
+}
+.select button{
+    height: 45px;
+    width: 170px;
+    color: #5c5E62;
+     font-size: 17px;
+    font-weight: 600;
+    border: 0.1px solid #171A20;
+    border-radius: 3px;
+    background-color: white;
+    margin-bottom: 2vh;
+    margin-left: 4vh;
+    padding: 4px 24px;
+}
+.A1 .svg-inline--fa {
+   margin-bottom: 2vh;
+   font-size: 30px;
+   color: #5c5E62;
+}
+  
+.custom{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+     flex-direction: row;
+    
+    
+}
+.part2{
+ 
+     margin-right: 2vh;
+     width: 100%;
+ 
+ }
+ .CT {
+     align-items: center;
+     justify-content: center;
+     display: flex;
+     flex-direction: column;
+     flex-wrap: wrap;
+     margin-top: 4vh;
+     
+ }
+ .btns{
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: center;
+     flex-wrap: wrap;
+     
+
+    
+ 
+ }
+ .btns button{
+ 
+     margin: 8px;
+     color: #687386;
+     border: 1px solid white;
+     height: 35px;
+     width: 152px;
+ }
+ 
+ .about1 {
+ 
+    
+     align-items: center;
+     justify-content: center;
+     display: flex;
+     margin-top: 5vh;
+     flex-wrap: wrap;
+     
+ 
+ }
+ .A12 {
+     align-items: center;
+     justify-content: center;
+     display: flex;
+     flex-direction: column;
+     margin-left: 3vh;
+ }
+ .but{
+     
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+ }
+ .but h4,.but p{
+
+    margin-top: 3vh;
+
+    
+ }
+ .but button{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+     height: 40px;
+     width: 250px;
+     border: 1.5px solid rgb(45, 45, 119);
+     font-size: 18px;
+ }
+ .to2 button{
+
+background-color: #3E6AE1;
+  border: 2px solid  #3E6AE1 ;
+  color: white;
+ }
+ .op{
+     align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+ }
+ .head4{
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 7vh;
+ }
+ .headline{
+
+    width: 73vh;
+ }
+.head4 h2{
+    margin-bottom: 4vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+ .btns2{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   margin-top: 3.5vh;
+ }
+ .Q1 button{
+  width: 150px;
+  height: 32px;
+  margin: 3vh;
+  background-color: #3E6AE1;
+  border: 2px solid  #3E6AE1 ;
+  color: white;
+ }
+ .Q2 button{
+    width: 150px;
+    height: 32px;
+    background-color:  #F4F4f4;
+    
+   }
+   .op{
+
+    margin-top: 4vh;
+   }
+   .Q3 button{
+    width: 180px;
+    height: 40px;
+    background-color: #3E6AE1;
+    border: 2px solid  #3E6AE1 ;
+    color: white;
+   }
+  
