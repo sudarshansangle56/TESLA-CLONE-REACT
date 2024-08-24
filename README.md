@@ -31,6 +31,7 @@ You can check out a brief video demo of the project:
   Your browser does not support the video tag.
 </video>
 
+
 ## Installation and Setup
 
 To run this project locally, follow these steps:
