@@ -13,6 +13,9 @@ The project focuses on the frontend, showcasing different Tesla models and a smo
 - **JavaScript (ES6+)** - For handling logic and dynamic functionality
 - **HTML/CSS** - For structuring and styling the web pages
 - **Git** - For version control
+## Video Demo
+
+https://github.com/user-attachments/assets/4b74aa2a-5543-4b05-ac11-b17803356aaa
 
 ## Features
 
@@ -21,9 +24,6 @@ The project focuses on the frontend, showcasing different Tesla models and a smo
 - Smooth animations and transitions to enhance user experience.
 - Static pages replicating Tesla's homepage design.
 
-## Video Demo
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
-[Click here to watch the video demo](https://github.com/sudarshansangle56/TESLA-CLONE-REACT/raw/master/Output.mp4)
 
 ## Installation and Setup
 
