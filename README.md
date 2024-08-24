@@ -23,12 +23,7 @@ The project focuses on the frontend, showcasing different Tesla models and a smo
 
 ## Video Demo
 
-You can watch a brief video demo of the project here:
-
-<video width="600" controls>
-  <source src="https://github.com/sudarshansangle56/TESLA-CLONE-REACT/raw/master/Output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Click here to watch the video demo](https://github.com/sudarshansangle56/TESLA-CLONE-REACT/raw/master/Output.mp4)
 
 ## Installation and Setup
 
@@ -36,4 +31,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sudarshansangle56/your-repository.git
+   git clone https://github.com/sudarshansangle56/TESLA-CLONE-REACT.git
