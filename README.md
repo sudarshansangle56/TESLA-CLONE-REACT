@@ -22,7 +22,7 @@ The project focuses on the frontend, showcasing different Tesla models and a smo
 - Static pages replicating Tesla's homepage design.
 
 ## Video Demo
-
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 [Click here to watch the video demo](https://github.com/sudarshansangle56/TESLA-CLONE-REACT/raw/master/Output.mp4)
 
 ## Installation and Setup
