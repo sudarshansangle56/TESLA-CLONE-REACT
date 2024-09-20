@@ -39,7 +39,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://sudarshansangle56.github.io/TESLA-CLONE-REACT/",
+  {
+  "homepage": "https://sudarshansangle56.github.io/TESLA-CLONE-REACT/"
+}
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
